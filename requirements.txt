@@ -1,6 +1,8 @@
 numpy
 pandas
-plotly.express
-streamlit
 datetime
+plotly==5.17.0
+streamlit>=1.30
+plotly.express
+
 
