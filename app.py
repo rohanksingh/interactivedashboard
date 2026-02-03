@@ -5,6 +5,10 @@ import plotly.express as px
 import streamlit as st
 from datetime import datetime
 
+"""
+Interactive dashboard for portfolio analysis
+"""
+
 
 
 st.set_page_config(page_title="Interactive Dashboard (Dummy Data)", layout='wide')
